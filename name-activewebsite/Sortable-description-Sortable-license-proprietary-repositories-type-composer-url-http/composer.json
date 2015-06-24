@@ -1,0 +1,11 @@
+{
+    "name": "activewebsite/requirejs",
+    "description": "RequireJS",
+    "license": "proprietary",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://repo.booj.lan"
+        }
+    ] 
+}
