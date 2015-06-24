@@ -1,11 +1,18 @@
 {
     "name": "activewebsite/requirejs",
-    "description": "RequireJS",
-    "license": "proprietary",
+    "description": "A file and module loader for JavaScript",
     "repositories": [
         {
             "type": "composer",
             "url": "http://repo.booj.lan"
         }
-    ] 
+    ],
+    "keywords": [
+        "AMD"
+    ],
+    "author": "jrburke.com",
+    "license": [
+        "BSD-3-Clause",
+        "MIT"
+    ]
 }
