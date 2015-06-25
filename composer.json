@@ -14,5 +14,15 @@
     "license": [
         "BSD-3-Clause",
         "MIT"
-    ]
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "require.js"
+            ],
+            "files": [
+               "require.js"
+            ]
+        }
+    }
 }
