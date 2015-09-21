@@ -17,9 +17,6 @@
     ],
     "extra": {
         "component": {
-            "scripts": [
-                "require.js"
-            ],
             "files": [
                "require.js"
             ]
